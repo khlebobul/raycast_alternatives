@@ -90,6 +90,7 @@ footer a:hover { text-decoration: underline; }
 .submit-body h2 { margin: 0; font-size: 19px; text-transform: uppercase; }
 .submit-body > p:not(.prompt) { margin: 7px 0 14px; color: var(--color-muted-foreground); font-size: 11px; }
 .submit-body a { display: block; padding: 8px 10px; background: var(--color-primary); color: var(--color-primary-foreground); font-size: 11px; text-align: center; }
+.submit-body a + a { margin-top: 8px; }
 .submit-body a:hover { background: var(--color-foreground); }
 .input-clear { position: absolute; right: 8px; top: 50%; padding: 2px 4px; border: 0; background: transparent; color: var(--color-primary); font-size: 11px; transform: translateY(-50%); cursor: pointer; }
 .input-clear:hover, .input-clear:focus-visible { background: var(--color-primary); color: var(--color-primary-foreground); outline: none; }

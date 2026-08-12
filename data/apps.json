@@ -75,6 +75,7 @@
     "id": "qr-factory",
     "name": "QR Factory",
     "url": "https://www.tunabellysoftware.com/qrfactory/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tunabellysoftware.com&sz=128",
     "category": "utilities",
     "description": "Creates QR codes from text and links."
   },
