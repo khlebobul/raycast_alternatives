@@ -21,7 +21,6 @@ const categories: Array<["all" | Category, string]> = [
 ];
 const REPO_URL = "https://github.com/khlebobul/raycast_alternatives";
 const CONTRIBUTING_URL = `${REPO_URL}/blob/main/CONTRIBUTING.md`;
-const NEW_PR_URL = `${REPO_URL}/compare`;
 
 export default function Home() {
   const [query, setQuery] = useState("");
@@ -107,12 +106,12 @@ export default function Home() {
           <h2>Missing a tool?</h2>
           <p>Add a real product, extension, correction, or better icon. The directory stays current through community pull requests.</p>
           <a href={CONTRIBUTING_URL} target="_blank" rel="noreferrer">[ open contribution guide ↗ ]</a>
-          <a href={NEW_PR_URL} target="_blank" rel="noreferrer">[ submit pull request ↗ ]</a>
+          <a href={REPO_URL} target="_blank" rel="noreferrer">[ open repository ↗ ]</a>
         </div>
       </aside>
       </div>
 
-      <footer><span>END OF DIRECTORY</span><span>missing an alternative? <a href={NEW_PR_URL} target="_blank" rel="noreferrer">[submit pull request]</a></span><span>built by <a href="https://khlebobul.github.io/">Gleb Shalimov</a></span></footer>
+      <footer><span>END OF DIRECTORY</span><span>missing an alternative? <a href={REPO_URL} target="_blank" rel="noreferrer">[open repository]</a></span><span>built by <a href="https://khlebobul.github.io/">Gleb Shalimov</a></span></footer>
 
       {selected && (
         <Dialog title={`~/apps/${selected.id}`} onClose={() => setSelected(null)}>
