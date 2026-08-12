@@ -1,0 +1,449 @@
+[
+  {
+    "id": "keyboardcleantool",
+    "name": "KeyboardCleanTool",
+    "url": "https://folivora.ai/keyboardcleantool",
+    "iconUrl": "https://folivora.ai/folivora/static/media/keyboardcleantool.f01437e0335846cdfb43.png",
+    "category": "utilities",
+    "description": "Locks your keyboard while you clean it."
+  },
+  {
+    "id": "activity-monitor",
+    "name": "Activity Monitor",
+    "url": "https://support.apple.com/guide/activity-monitor/welcome/mac",
+    "iconUrl": "https://cdn.jim-nielsen.com/macos/1024/activity-monitor-2021-04-22.png",
+    "category": "utilities",
+    "description": "Shows system usage and manages running processes."
+  },
+  {
+    "id": "toothfairy",
+    "name": "ToothFairy",
+    "url": "https://c-command.com/toothfairy/",
+    "iconUrl": "https://setapp.com/cdn-cgi/image/quality%3D75%2Cformat%3Dauto/https%3A/cdn.setapp.com/blog/images/icon-toothfairy.webp",
+    "category": "utilities",
+    "description": "Connects and switches Bluetooth devices."
+  },
+  {
+    "id": "downie",
+    "name": "Downie",
+    "url": "https://software.charliemonroe.net/downie/",
+    "iconUrl": "https://cdn.jim-nielsen.com/macos/512/downie-2022-01-24.png",
+    "category": "media",
+    "description": "Downloads videos from websites."
+  },
+  {
+    "id": "textsoap",
+    "name": "TextSoap",
+    "url": "https://textsoap.com/mac/",
+    "iconUrl": "https://textsoap.com/mac/assets/images/textsoap9-256.png",
+    "category": "productivity",
+    "description": "Cleans text and changes its letter case."
+  },
+  {
+    "id": "google-translate",
+    "name": "Google Translate",
+    "url": "https://translate.google.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=translate.google.com&sz=128",
+    "category": "productivity",
+    "description": "Translates text between languages."
+  },
+  {
+    "id": "can-i-use",
+    "name": "Can I Use",
+    "url": "https://caniuse.com/",
+    "iconUrl": "https://caniuse.com/img/favicon-128.png",
+    "category": "developer",
+    "description": "Checks browser support for web platform features."
+  },
+  {
+    "id": "imageoptim",
+    "name": "ImageOptim",
+    "url": "https://imageoptim.com/mac",
+    "iconUrl": "https://images.icon-icons.com/3053/PNG/512/imageoptim_alt_macos_bigsur_icon_190073.png",
+    "category": "utilities",
+    "description": "Compresses images and reduces file size."
+  },
+  {
+    "id": "amphetamine",
+    "name": "Amphetamine",
+    "url": "https://apps.apple.com/app/amphetamine/id937984704",
+    "iconUrl": "https://cdn.jim-nielsen.com/macos/512/amphetamine-2019-07-23.png",
+    "category": "utilities",
+    "description": "Keeps your Mac awake on demand or on a schedule."
+  },
+  {
+    "id": "qr-factory",
+    "name": "QR Factory",
+    "url": "https://www.tunabellysoftware.com/qrfactory/",
+    "category": "utilities",
+    "description": "Creates QR codes from text and links."
+  },
+  {
+    "id": "pixelsnap",
+    "name": "PixelSnap",
+    "url": "https://pixelsnap.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=pixelsnap.com&sz=128",
+    "category": "utilities",
+    "description": "Measures distances between objects on screen."
+  },
+  {
+    "id": "textsniper",
+    "name": "TextSniper",
+    "url": "https://textsniper.app/",
+    "iconUrl": "https://cdn.jim-nielsen.com/macos/1024/textsniper-2026-01-05.png",
+    "category": "productivity",
+    "description": "Extracts text from anything visible on screen."
+  },
+  {
+    "id": "speedtest",
+    "name": "Speedtest",
+    "url": "https://www.speedtest.net/apps/mac",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=speedtest.net&sz=128",
+    "category": "utilities",
+    "description": "Measures download speed, upload speed, and latency."
+  },
+  {
+    "id": "colorslurp",
+    "name": "ColorSlurp",
+    "url": "https://colorslurp.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=colorslurp.com&sz=128",
+    "category": "utilities",
+    "description": "Picks, converts, and organizes colors."
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com/download/",
+    "iconUrl": "https://dockshare.io/apps/chatgpt.png",
+    "category": "productivity",
+    "description": "Desktop client for conversations with ChatGPT."
+  },
+  {
+    "id": "be-focused",
+    "name": "Be Focused",
+    "url": "https://apps.apple.com/us/app/be-focused-pomodoro-timer/id973134470?mt=12",
+    "iconUrl": "https://store.setapp.com/app/173/44587/icon-1756817490-68b6e852532c2.png",
+    "category": "productivity",
+    "description": "Pomodoro timer with tasks and work intervals."
+  },
+  {
+    "id": "giphy",
+    "name": "GIPHY",
+    "url": "https://giphy.com/apps/giphycapture",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=giphy.com&sz=128",
+    "category": "media",
+    "description": "Searches and copies animated GIFs."
+  },
+  {
+    "id": "json-hero",
+    "name": "JSON Hero",
+    "url": "https://jsonhero.io/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=jsonhero.io&sz=128",
+    "category": "developer",
+    "description": "Formats and explores JSON documents."
+  },
+  {
+    "id": "rocket",
+    "name": "Rocket",
+    "url": "https://matthewpalmer.net/rocket/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=matthewpalmer.net&sz=128",
+    "category": "productivity",
+    "description": "Searches and inserts emoji using Slack-style shortcuts."
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "url": "https://www.perplexity.ai/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128",
+    "category": "productivity",
+    "description": "Answers questions with AI and cited web sources."
+  },
+  {
+    "id": "deepl",
+    "name": "DeepL",
+    "url": "https://www.deepl.com/app/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=deepl.com&sz=128",
+    "category": "productivity",
+    "description": "Translates text between languages."
+  },
+  {
+    "id": "carbon",
+    "name": "Carbon",
+    "url": "https://carbon.now.sh/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=carbon.now.sh&sz=128",
+    "category": "developer",
+    "description": "Creates polished images of source code."
+  },
+  {
+    "id": "quitall",
+    "name": "QuitAll",
+    "url": "https://amicoapps.com/app/quitall/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=quitall.app&sz=128",
+    "category": "utilities",
+    "description": "Quits multiple Mac apps at once."
+  },
+  {
+    "id": "what-is-my-ip",
+    "name": "WhatIsMyIPAddress",
+    "url": "https://whatismyipaddress.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=whatismyipaddress.com&sz=128",
+    "category": "utilities",
+    "description": "Shows your public IP address and network details."
+  },
+  {
+    "id": "wikipedia",
+    "name": "Wikipedia",
+    "url": "https://www.wikipedia.org/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=wikipedia.org&sz=128",
+    "category": "productivity",
+    "description": "Searches and reads encyclopedia articles."
+  },
+  {
+    "id": "weather",
+    "name": "Weather",
+    "url": "https://weather.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=weather.com&sz=128",
+    "category": "utilities",
+    "description": "Shows current conditions and forecasts."
+  },
+  {
+    "id": "wordcounter",
+    "name": "WordCounter",
+    "url": "https://wordcounter.net/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=wordcounter.net&sz=128",
+    "category": "productivity",
+    "description": "Counts words, characters, sentences, and paragraphs."
+  },
+  {
+    "id": "unsplash",
+    "name": "Unsplash",
+    "url": "https://unsplash.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=unsplash.com&sz=128",
+    "category": "media",
+    "description": "Searches and downloads free stock photos."
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "url": "https://claude.ai/download",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=claude.ai&sz=128",
+    "category": "productivity",
+    "description": "Desktop client for conversations with Claude."
+  },
+  {
+    "id": "mockaroo",
+    "name": "Mockaroo",
+    "url": "https://www.mockaroo.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=mockaroo.com&sz=128",
+    "category": "developer",
+    "description": "Generates realistic sample data for development."
+  },
+  {
+    "id": "uuid-generator",
+    "name": "UUID Generator",
+    "url": "https://www.uuidgenerator.net/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=uuidgenerator.net&sz=128",
+    "category": "developer",
+    "description": "Generates and formats UUIDs."
+  },
+  {
+    "id": "epoch-converter",
+    "name": "Epoch Converter",
+    "url": "https://www.epochconverter.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=epochconverter.com&sz=128",
+    "category": "developer",
+    "description": "Converts Unix timestamps to readable dates and back."
+  },
+  {
+    "id": "permute",
+    "name": "Permute",
+    "url": "https://software.charliemonroe.net/permute/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=software.charliemonroe.net&sz=128",
+    "category": "media",
+    "description": "Converts video, audio, and image files."
+  },
+  {
+    "id": "itsycal",
+    "name": "Itsycal",
+    "url": "https://www.mowglii.com/itsycal/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=mowglii.com&sz=128",
+    "category": "productivity",
+    "description": "Shows a compact calendar from the menu bar."
+  },
+  {
+    "id": "coconutbattery",
+    "name": "coconutBattery",
+    "url": "https://www.coconut-flavour.com/coconutbattery/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=coconut-flavour.com&sz=128",
+    "category": "utilities",
+    "description": "Shows battery condition, cycles, and capacity."
+  },
+  {
+    "id": "diffchecker",
+    "name": "Diffchecker",
+    "url": "https://www.diffchecker.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=diffchecker.com&sz=128",
+    "category": "developer",
+    "description": "Compares two blocks of text and highlights changes."
+  },
+  {
+    "id": "xe",
+    "name": "XE Currency",
+    "url": "https://www.xe.com/currencyconverter/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=xe.com&sz=128",
+    "category": "utilities",
+    "description": "Converts currencies using current exchange rates."
+  },
+  {
+    "id": "remove-bg",
+    "name": "remove.bg",
+    "url": "https://www.remove.bg/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=remove.bg&sz=128",
+    "category": "media",
+    "description": "Removes image backgrounds automatically."
+  },
+  {
+    "id": "qr-capture",
+    "name": "QR Capture",
+    "url": "https://apps.apple.com/us/app/qr-capture/id1369524274?mt=12",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/fa/58/04fa58bf-3ace-053f-22e7-4055d50e59e6/AppIcon-0-0-85-220-0-0-5-0-2x-sRGB-0-0-0.png/512x512bb.png",
+    "category": "utilities",
+    "description": "Scans QR codes from the screen, clipboard, files, or a camera."
+  },
+  {
+    "id": "imgflip",
+    "name": "Imgflip",
+    "url": "https://imgflip.com/memegenerator",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=imgflip.com&sz=128",
+    "category": "media",
+    "description": "Creates memes from popular templates."
+  },
+  {
+    "id": "temp-mail",
+    "name": "Temp Mail",
+    "url": "https://temp-mail.org/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=temp-mail.org&sz=128",
+    "category": "communication",
+    "description": "Creates disposable email addresses and inboxes."
+  },
+  {
+    "id": "bitly",
+    "name": "Bitly",
+    "url": "https://bitly.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=bitly.com&sz=128",
+    "category": "utilities",
+    "description": "Shortens long URLs for sharing."
+  },
+  {
+    "id": "istat-menus",
+    "name": "iStat Menus",
+    "url": "https://bjango.com/mac/istatmenus/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=bjango.com&sz=128",
+    "category": "utilities",
+    "description": "Tracks CPU, memory, disks, sensors, and network usage."
+  },
+  {
+    "id": "lungo",
+    "name": "Lungo",
+    "url": "https://sindresorhus.com/lungo",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sindresorhus.com&sz=128",
+    "category": "utilities",
+    "description": "Keeps your Mac awake for a chosen duration."
+  },
+  {
+    "id": "sip",
+    "name": "Sip",
+    "url": "https://sipapp.io/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sipapp.io&sz=128",
+    "category": "utilities",
+    "description": "Picks and organizes colors from anywhere on screen."
+  },
+  {
+    "id": "squash",
+    "name": "Squash",
+    "url": "https://www.realmacsoftware.com/squash/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=realmacsoftware.com&sz=128",
+    "category": "media",
+    "description": "Compresses, resizes, and converts images."
+  },
+  {
+    "id": "prizmo",
+    "name": "Prizmo",
+    "url": "https://creaceed.com/prizmo",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=creaceed.com&sz=128",
+    "category": "productivity",
+    "description": "Scans documents and extracts text with OCR."
+  },
+  {
+    "id": "world-clock-pro",
+    "name": "World Clock Pro",
+    "url": "https://setapp.com/apps/world-clock-pro",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=setapp.com&sz=128",
+    "category": "productivity",
+    "description": "Compares times across cities and time zones."
+  },
+  {
+    "id": "forecast-bar",
+    "name": "Forecast Bar",
+    "url": "https://setapp.com/apps/forecast-bar",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=setapp.com&sz=128",
+    "category": "utilities",
+    "description": "Shows detailed weather forecasts in the menu bar."
+  },
+  {
+    "id": "dato",
+    "name": "Dato",
+    "url": "https://sindresorhus.com/dato",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=sindresorhus.com&sz=128",
+    "category": "productivity",
+    "description": "Shows calendar events and time zones in the menu bar."
+  },
+  {
+    "id": "forklift",
+    "name": "ForkLift",
+    "url": "https://binarynights.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=binarynights.com&sz=128",
+    "category": "utilities",
+    "description": "Manages local files, servers, and cloud storage."
+  },
+  {
+    "id": "path-finder",
+    "name": "Path Finder",
+    "url": "https://www.cocoatech.io/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cocoatech.io&sz=128",
+    "category": "utilities",
+    "description": "Provides advanced file browsing and management."
+  },
+  {
+    "id": "trickster",
+    "name": "Trickster",
+    "url": "https://www.apparentsoft.com/trickster",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=apparentsoft.com&sz=128",
+    "category": "productivity",
+    "description": "Surfaces recently used files for quick access."
+  },
+  {
+    "id": "default-folder-x",
+    "name": "Default Folder X",
+    "url": "https://www.stclairsoft.com/DefaultFolderX/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=stclairsoft.com&sz=128",
+    "category": "productivity",
+    "description": "Provides fast access to recent and favorite files."
+  },
+  {
+    "id": "dash",
+    "name": "Dash",
+    "url": "https://kapeli.com/dash",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kapeli.com&sz=128",
+    "category": "developer",
+    "description": "Searches offline API documentation sets."
+  },
+  {
+    "id": "renamer",
+    "name": "Renamer",
+    "url": "https://renamer.com/",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=renamer.com&sz=128",
+    "category": "utilities",
+    "description": "Batch renames files using reusable rules."
+  }
+]

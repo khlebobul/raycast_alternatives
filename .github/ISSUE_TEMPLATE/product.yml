@@ -1,0 +1,57 @@
+name: Add a product
+description: Suggest a real product and its Raycast replacement.
+title: "[Product]: "
+body:
+  - type: markdown
+    attributes:
+      value: Only submit currently available products with working official links.
+  - type: input
+    id: name
+    attributes:
+      label: Product name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official product URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: input
+    id: icon
+    attributes:
+      label: Square icon URL
+      description: Optional. The first letter of the product name is used as fallback.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - productivity
+        - developer
+        - media
+        - utilities
+        - communication
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does the product do?
+    validations:
+      required: true
+  - type: textarea
+    id: replacements
+    attributes:
+      label: Raycast replacement links
+      description: Add at least one real raycast.com extension URL.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Verification
+      options:
+        - label: I verified that the product and Raycast extension links work.
+          required: true

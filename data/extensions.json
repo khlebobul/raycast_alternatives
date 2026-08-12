@@ -1,0 +1,470 @@
+[
+  {
+    "id": "clean-keyboard",
+    "name": "Clean Keyboard",
+    "description": "Locks your keyboard so you can clean it safely.",
+    "url": "https://www.raycast.com/ike-gg/clean-keyboard",
+    "replaces": [
+      "keyboardcleantool"
+    ]
+  },
+  {
+    "id": "system-monitor",
+    "name": "System Monitor",
+    "description": "Shows CPU, memory, disk, battery, network, and temperature usage.",
+    "url": "https://www.raycast.com/hossammourad/raycast-system-monitor",
+    "replaces": [
+      "activity-monitor",
+      "istat-menus"
+    ]
+  },
+  {
+    "id": "kill-process",
+    "name": "Kill Process",
+    "description": "Finds and terminates processes sorted by CPU or memory usage.",
+    "url": "https://www.raycast.com/rolandleth/kill-process",
+    "replaces": [
+      "activity-monitor"
+    ]
+  },
+  {
+    "id": "toothpick",
+    "name": "Toothpick",
+    "description": "Connects and controls Bluetooth devices with a few keystrokes.",
+    "url": "https://www.raycast.com/VladCuciureanu/toothpick",
+    "replaces": [
+      "toothfairy"
+    ]
+  },
+  {
+    "id": "video-downloader",
+    "name": "Video Downloader",
+    "description": "Downloads video or audio from YouTube, X, Twitch, Instagram, and more.",
+    "url": "https://www.raycast.com/vimtor/video-downloader",
+    "replaces": [
+      "downie"
+    ]
+  },
+  {
+    "id": "change-case",
+    "name": "Change Case",
+    "description": "Transforms text between camelCase, snake_case, title case, and more.",
+    "url": "https://www.raycast.com/erics118/change-case",
+    "replaces": [
+      "textsoap"
+    ]
+  },
+  {
+    "id": "google-translate",
+    "name": "Google Translate",
+    "description": "Translates selected text without opening a browser tab.",
+    "url": "https://www.raycast.com/gebeto/translate",
+    "replaces": [
+      "google-translate"
+    ]
+  },
+  {
+    "id": "easy-dictionary",
+    "name": "Easy Dictionary",
+    "description": "Translates with Google, DeepL, Apple, Bing, and other services.",
+    "url": "https://www.raycast.com/isfeng/easydict",
+    "replaces": [
+      "google-translate"
+    ]
+  },
+  {
+    "id": "can-i-use",
+    "name": "Can I Use",
+    "description": "Checks current browser support for front-end technologies.",
+    "url": "https://www.raycast.com/thomas/can-i-use",
+    "replaces": [
+      "can-i-use"
+    ]
+  },
+  {
+    "id": "tinypng",
+    "name": "TinyPNG",
+    "description": "Compresses selected images directly from Finder.",
+    "url": "https://www.raycast.com/HelloImSteven/tinypng",
+    "replaces": [
+      "imageoptim"
+    ]
+  },
+  {
+    "id": "coffee",
+    "name": "Coffee",
+    "description": "Keeps your Mac awake indefinitely, for a duration, or on a schedule.",
+    "url": "https://www.raycast.com/mooxl/coffee",
+    "replaces": [
+      "amphetamine",
+      "lungo"
+    ]
+  },
+  {
+    "id": "qr-code-generator",
+    "name": "QR Code Generator",
+    "description": "Generates PNG or SVG QR codes from text, URLs, or the clipboard.",
+    "url": "https://www.raycast.com/Melvynx/qrcode-generator",
+    "replaces": [
+      "qr-factory"
+    ]
+  },
+  {
+    "id": "ruler",
+    "name": "Ruler",
+    "description": "Measures pixel distances between two points on your screen.",
+    "url": "https://www.raycast.com/anwarulislam/ruler",
+    "replaces": [
+      "pixelsnap"
+    ]
+  },
+  {
+    "id": "screenocr",
+    "name": "ScreenOCR",
+    "description": "Extracts text from screen captures locally with Apple VisionKit.",
+    "url": "https://www.raycast.com/huzef44/screenocr",
+    "replaces": [
+      "textsniper",
+      "prizmo"
+    ]
+  },
+  {
+    "id": "speedtest",
+    "name": "Speedtest",
+    "description": "Tests download speed, upload speed, latency, and jitter.",
+    "url": "https://www.raycast.com/tonka3000/speedtest",
+    "replaces": [
+      "speedtest"
+    ]
+  },
+  {
+    "id": "color-picker",
+    "name": "Color Picker",
+    "description": "Picks, converts, generates, and organizes colors system-wide.",
+    "url": "https://www.raycast.com/thomas/color-picker",
+    "replaces": [
+      "colorslurp",
+      "sip"
+    ]
+  },
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "description": "Runs ChatGPT from the command bar using an OpenAI API key.",
+    "url": "https://www.raycast.com/abielzulio/chatgpt",
+    "replaces": [
+      "chatgpt"
+    ]
+  },
+  {
+    "id": "pomodoro",
+    "name": "Pomodoro",
+    "description": "Runs focus and break intervals from Raycast and the menu bar.",
+    "url": "https://www.raycast.com/asubbotin/pomodoro",
+    "replaces": [
+      "be-focused"
+    ]
+  },
+  {
+    "id": "gif-search",
+    "name": "GIF Search",
+    "description": "Searches GIFs and inserts or copies them instantly.",
+    "url": "https://www.raycast.com/josephschmitt/gif-search",
+    "replaces": [
+      "giphy"
+    ]
+  },
+  {
+    "id": "format-json",
+    "name": "Format JSON",
+    "description": "Parses and formats JSON from files or the clipboard.",
+    "url": "https://www.raycast.com/destiner/json-format",
+    "replaces": [
+      "json-hero"
+    ]
+  },
+  {
+    "id": "set-audio-device",
+    "name": "Set Audio Device",
+    "description": "Switches the active input and output audio device.",
+    "url": "https://www.raycast.com/benvp/audio-device",
+    "replaces": [
+      "toothfairy"
+    ]
+  },
+  {
+    "id": "emoji-search",
+    "name": "Emoji Search",
+    "description": "Searches emoji by name and copies or inserts them instantly.",
+    "url": "https://www.raycast.com/FezVrasta/emoji",
+    "replaces": [
+      "rocket"
+    ]
+  },
+  {
+    "id": "image-modification",
+    "name": "Image Modification",
+    "description": "Resizes, converts, rotates, and optimizes selected images.",
+    "url": "https://www.raycast.com/HelloImSteven/sips",
+    "replaces": [
+      "imageoptim",
+      "squash"
+    ]
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "description": "Asks Perplexity from Raycast and returns cited answers.",
+    "url": "https://www.raycast.com/third774/perplexity",
+    "replaces": [
+      "perplexity"
+    ]
+  },
+  {
+    "id": "deepcast",
+    "name": "Deepcast",
+    "description": "Translates selected text with DeepL from Raycast.",
+    "url": "https://www.raycast.com/mooxl/deepcast",
+    "replaces": [
+      "deepl"
+    ]
+  },
+  {
+    "id": "ray-so",
+    "name": "ray.so",
+    "description": "Turns selected source code into a shareable image.",
+    "url": "https://www.raycast.com/garrett/ray-so",
+    "replaces": [
+      "carbon"
+    ]
+  },
+  {
+    "id": "quit-applications",
+    "name": "Quit Applications",
+    "description": "Selects and quits several running applications together.",
+    "url": "https://www.raycast.com/mackopes/quit-applications",
+    "replaces": [
+      "quitall"
+    ]
+  },
+  {
+    "id": "myip",
+    "name": "MyIP",
+    "description": "Shows public and local IP addresses without opening a website.",
+    "url": "https://www.raycast.com/Kang/myip",
+    "replaces": [
+      "what-is-my-ip"
+    ]
+  },
+  {
+    "id": "wikipedia",
+    "name": "Wikipedia",
+    "description": "Searches and previews Wikipedia articles inside Raycast.",
+    "url": "https://www.raycast.com/vimtor/wikipedia",
+    "replaces": [
+      "wikipedia"
+    ]
+  },
+  {
+    "id": "weather",
+    "name": "Weather",
+    "description": "Shows weather conditions and forecasts for saved locations.",
+    "url": "https://www.raycast.com/tonka3000/weather",
+    "replaces": [
+      "weather",
+      "forecast-bar"
+    ]
+  },
+  {
+    "id": "word-count",
+    "name": "Word Count",
+    "description": "Counts words and characters in selected or pasted text.",
+    "url": "https://www.raycast.com/itsmingjie/word-count",
+    "replaces": [
+      "wordcounter"
+    ]
+  },
+  {
+    "id": "unsplash",
+    "name": "Unsplash",
+    "description": "Searches, previews, and downloads Unsplash photos.",
+    "url": "https://www.raycast.com/eggsy/unsplash",
+    "replaces": [
+      "unsplash"
+    ]
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "description": "Chats with Claude through the Anthropic API from Raycast.",
+    "url": "https://www.raycast.com/florisdobber/claude",
+    "replaces": [
+      "claude"
+    ]
+  },
+  {
+    "id": "random-data",
+    "name": "Random Data Generator",
+    "description": "Generates realistic sample data using Faker.",
+    "url": "https://www.raycast.com/loris/random",
+    "replaces": [
+      "mockaroo"
+    ]
+  },
+  {
+    "id": "uuid-generator",
+    "name": "UUID Generator",
+    "description": "Generates UUID v4, v5, v7, ULID, and TypeID values.",
+    "url": "https://www.raycast.com/jmaeso/uuid-generator",
+    "replaces": [
+      "uuid-generator"
+    ]
+  },
+  {
+    "id": "unix-timestamp",
+    "name": "Unix Timestamp",
+    "description": "Converts Unix timestamps to readable dates and back.",
+    "url": "https://www.raycast.com/destiner/unix-timestamp",
+    "replaces": [
+      "epoch-converter"
+    ]
+  },
+  {
+    "id": "media-converter",
+    "name": "Media Converter",
+    "description": "Converts video, audio, and images locally with FFmpeg.",
+    "url": "https://www.raycast.com/leandro.maia/media-converter",
+    "replaces": [
+      "permute"
+    ]
+  },
+  {
+    "id": "quick-calendar",
+    "name": "Quick Calendar",
+    "description": "Shows a compact monthly calendar without leaving Raycast.",
+    "url": "https://www.raycast.com/fuksman/calendar",
+    "replaces": [
+      "itsycal",
+      "dato"
+    ]
+  },
+  {
+    "id": "battery-health",
+    "name": "Battery Health",
+    "description": "Shows battery condition, capacity, cycles, and charging state.",
+    "url": "https://www.raycast.com/o1y/battery-health",
+    "replaces": [
+      "coconutbattery"
+    ]
+  },
+  {
+    "id": "diff-checker",
+    "name": "Diff Checker",
+    "description": "Compares two text values and highlights their differences.",
+    "url": "https://www.raycast.com/destiner/diff-checker",
+    "replaces": [
+      "diffchecker"
+    ]
+  },
+  {
+    "id": "currency-exchange",
+    "name": "Currency Exchange",
+    "description": "Converts currencies with current exchange rates.",
+    "url": "https://www.raycast.com/xeric/currency-exchange",
+    "replaces": [
+      "xe"
+    ]
+  },
+  {
+    "id": "remove-background",
+    "name": "Remove Background",
+    "description": "Removes image backgrounds locally using Apple Vision.",
+    "url": "https://www.raycast.com/maantje/remove-background",
+    "replaces": [
+      "remove-bg"
+    ]
+  },
+  {
+    "id": "qr-code-scanner",
+    "name": "QR Code Scanner",
+    "description": "Reads QR codes from screen captures and image files.",
+    "url": "https://www.raycast.com/StevenRCE0/qr-code-scanner",
+    "replaces": [
+      "qr-capture"
+    ]
+  },
+  {
+    "id": "meme-generator",
+    "name": "Meme Generator",
+    "description": "Creates memes from built-in templates inside Raycast.",
+    "url": "https://www.raycast.com/timoransky/meme-generator",
+    "replaces": [
+      "imgflip"
+    ]
+  },
+  {
+    "id": "temporary-email",
+    "name": "Temporary Email",
+    "description": "Creates disposable email addresses and reads incoming mail.",
+    "url": "https://www.raycast.com/natterstefan/temporary-email",
+    "replaces": [
+      "temp-mail"
+    ]
+  },
+  {
+    "id": "url-shortener",
+    "name": "URL Shortener",
+    "description": "Shortens a URL and copies the result from Raycast.",
+    "url": "https://www.raycast.com/Visual-Studio-Coder/url-shortener",
+    "replaces": [
+      "bitly"
+    ]
+  },
+  {
+    "id": "timezone-converter",
+    "name": "Timezone Converter",
+    "description": "Compares dates and times across multiple time zones.",
+    "url": "https://www.raycast.com/joao.mainka/raycast-timezone-converter",
+    "replaces": [
+      "world-clock-pro"
+    ]
+  },
+  {
+    "id": "file-manager",
+    "name": "File Manager",
+    "description": "Browses and manages files directly from Raycast.",
+    "url": "https://www.raycast.com/erics118/file-manager",
+    "replaces": [
+      "forklift",
+      "path-finder"
+    ]
+  },
+  {
+    "id": "recents",
+    "name": "Recents",
+    "description": "Shows recently used files and folders in Raycast.",
+    "url": "https://www.raycast.com/GastroGeek/recents",
+    "replaces": [
+      "trickster",
+      "default-folder-x"
+    ]
+  },
+  {
+    "id": "devdocs",
+    "name": "DevDocs",
+    "description": "Searches API documentation sets without a separate viewer.",
+    "url": "https://www.raycast.com/djpowers/devdocs",
+    "replaces": [
+      "dash"
+    ]
+  },
+  {
+    "id": "regex-batch-renamer",
+    "name": "Regex Batch Renamer",
+    "description": "Batch renames files and folders using reusable regex rules.",
+    "url": "https://www.raycast.com/tarikkavaz/regex-batch-renamer",
+    "replaces": [
+      "renamer"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+name: Report a bug
+description: Report broken behavior, data, links, or icons.
+title: "[Bug]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the affected product or extension when relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open…\n2. Click…\n3. See…"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and device
+      placeholder: Safari 18, macOS
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Screenshots, console errors, or working replacement links.
