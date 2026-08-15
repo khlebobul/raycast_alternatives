@@ -76,7 +76,7 @@
     "id": "can-i-use",
     "name": "Can I Use",
     "description": "Checks current browser support for front-end technologies.",
-    "url": "https://www.raycast.com/thomas/can-i-use",
+    "url": "https://www.raycast.com/thomaslombart/can-i-use",
     "replaces": [
       "can-i-use"
     ]
@@ -85,7 +85,7 @@
     "id": "tinypng",
     "name": "TinyPNG",
     "description": "Compresses selected images directly from Finder.",
-    "url": "https://www.raycast.com/HelloImSteven/tinypng",
+    "url": "https://www.raycast.com/kawamataryo/tinypng",
     "replaces": [
       "imageoptim"
     ]
