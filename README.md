@@ -4,6 +4,8 @@ An open directory of Raycast extensions that replace standalone and paid macOS a
 
 Raycast keeps many useful tools inside one command bar. This project makes those alternatives easy to discover without installing, updating, and paying for a separate app for every small task. The catalog is community-maintained through pull requests.
 
+See also: [Glaze Alternatives](https://khlebobul.github.io/glaze_alternatives/).
+
 ## Preview
 
 ![Raycast Alternatives website](docs/images/site-preview.png)

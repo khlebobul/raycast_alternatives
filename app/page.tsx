@@ -21,6 +21,7 @@ const categories: Array<["all" | Category, string]> = [
 ];
 const REPO_URL = "https://github.com/khlebobul/raycast_alternatives";
 const CONTRIBUTING_URL = `${REPO_URL}/blob/main/CONTRIBUTING.md`;
+const GLAZE_ALTERNATIVES_URL = "https://khlebobul.github.io/glaze_alternatives/";
 
 export default function Home() {
   const [query, setQuery] = useState("");
@@ -52,7 +53,7 @@ export default function Home() {
     <main className="shell">
       <header className="topbar">
         <a href="#top" className="font-bold">~/raycast-alternatives</a>
-        <nav><a href="#directory">[apps]</a><a href="#submit">[submit]</a></nav>
+        <nav><a href="#directory">[apps]</a><a href="#submit">[submit]</a><a href={GLAZE_ALTERNATIVES_URL} target="_blank" rel="noreferrer">[Glaze Alternatives ↗]</a></nav>
       </header>
 
       <section id="top" className="hero">
@@ -111,7 +112,7 @@ export default function Home() {
       </aside>
       </div>
 
-      <footer><span>END OF DIRECTORY</span><span>missing an alternative? <a href={REPO_URL} target="_blank" rel="noreferrer">[open repository]</a></span><span>built by <a href="https://khlebobul.github.io/">Gleb Shalimov</a></span></footer>
+      <footer><span>END OF DIRECTORY</span><span>also: <a href={GLAZE_ALTERNATIVES_URL}>[Glaze Alternatives ↗]</a></span><span>built by <a href="https://khlebobul.github.io/">Gleb Shalimov</a></span></footer>
 
       {selected && (
         <Dialog title={`~/apps/${selected.id}`} onClose={() => setSelected(null)}>
